@@ -2,8 +2,6 @@
 
 
 
-![Corgi GIF](https://media2.giphy.com/media/ny7UCd6JETnmE/giphy.gif?cid=ecf05e47enxupq6wrl9w3xlmiwijtt9exn5xri55gotlejoc&ep=v1_gifs_related&rid=giphy.gif&ct=g)
-
 <div>
 <a href = "mailto:paulohenrique_email.ebxbn@simplelogin.com"><img loading="lazy" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/phf333/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
